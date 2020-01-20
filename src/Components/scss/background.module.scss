@@ -1,0 +1,28 @@
+.background {
+    background-color: #2b2b2ba0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    // flex-direction: column;
+    padding: 5% 0 5%;
+    width: 100vw;
+    color: #fff;
+    //   font-family: "Baskervville", serif;
+
+    h1 {
+        font-size: 10vw;
+    }
+
+    h2 {
+        font-size: 4vw;
+    }
+
+    // .divOne,
+    // .divTwo {
+    //     // height: 50px;
+    //     // width: 20%;
+
+    //     // border: 1px solid #fff;
+    //     // background-image: url(../../images/gallery/img6.JPG);
+    // }
+}

@@ -1,5 +1,5 @@
 var plugins = [{
-      plugin: require('/Users/danielcouzens/Websites/gatsbyStarter/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
+      plugin: require('/Users/danielcouzens/Websites/BeechAndGreene/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),
       options: {"plugins":[],"fonts":["Baskervville:300,400"],"display":"swap"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
